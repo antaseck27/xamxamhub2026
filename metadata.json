@@ -1,0 +1,7 @@
+{
+  "name": "XamXam Hub",
+  "description": "Plateforme communautaire d'entraide technique, défis hebdomadaires et mise en relation pour développeurs africains (Systalink Challenge 2026).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
